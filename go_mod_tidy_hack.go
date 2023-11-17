@@ -1,6 +1,6 @@
 // +build modhack
 
-package autorest
+package adal
 
 // Copyright 2017 Microsoft Corporation
 //
